@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xec57694F014e9a273fE3e37B2072DbF574e4A1e7",
+  "SCAN_LINK": "https://etherscan.io/token/0xec57694F014e9a273fE3e37B2072DbF574e4A1e7",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "WZRDZ",
+  "SYMBOL": "WZRDZ",
+  "MAX_SUPPLY": 3600,
+  "WEI_COST": 36000000000000000,
+  "DISPLAY_COST": 0.036,
+  "GAS_LIMIT": 250000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wzrdz",
+  "SHOW_BACKGROUND": true
+}
